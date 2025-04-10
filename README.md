@@ -14,23 +14,49 @@ I am a final-year **Computer Science student** and a **Web Developer** with expe
 - 🌱 **Currently Learning:** Advanced System Design, Distributed Systems
 
 ## 🏆 Featured Projects
-### 🎵 [Laravel Music Streaming App](https://github.com/upesic1512/laravel-music-streaming)
+### 🎵 [Laravel Music Streaming App](https://github.com/upesic1512/musicapp)
 A Spotify-inspired **music streaming platform** built with Laravel featuring user registration, music uploads, playback, and an admin panel.
 
-### 🤖 [AI Trainer](https://github.com/upesic1512/ai-trainer)
-A **machine learning-powered fitness trainer** that generates personalized workout plans based on user input.
+### 🤖 [Face Recognition App](https://github.com/upesic1512/ai-trainer)
+A **machine learning-powered face recognition app**
 
-### 🏀 [Olympic Basketball Tournament Simulator](https://github.com/upesic1512/basketball-simulator)
-A C# application simulating a **basketball tournament** at the Olympic Games, implementing group and knockout stages.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
 
-### 🎮 [Game Automation Bot](https://github.com/upesic1512/game-automation)
-A Python-based bot that **automatically plays strategy games**, making smart decisions based on in-game logic.
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upesic1512&show_icons=true&theme=tokyonight)
-
-### 🐍 Watch My Contribution Snake!
-![GitHub Contribution Snake](https://github.com/upesic1512/upesic1512/blob/output/github-contribution-grid-snake.svg)
+###
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/uro%C5%A1-pe%C5%A1i%C4%87-b9b724224/)  
