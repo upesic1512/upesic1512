@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Uroš Pešić! 👋
 
-<!--
-**upesic1512/upesic1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web Developer | C# | .NET | Laravel | React | Machine Learning Enthusiast**  
+🎯 Passionate about building scalable web applications, optimizing performance, and solving complex problems. 
 
-Here are some ideas to get you started:
+## 📌 About Me
+I am a final-year **Computer Science student** and a **Web Developer** with experience in both frontend and backend technologies. I love working on high-performance applications, improving user experiences, and leveraging machine learning for innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently working at:** SpiceAds as a Web Developer
+- 🎓 **Education:** University of Pristina, Faculty of Science (2021 - 2025)
+- 💡 **Tech Stack:** C#, .NET, Laravel, React, Python, TensorFlow, SQL, Docker
+- 💼 **Past Experience:** Web Developer at W3 Lab Digital Solutions, Machine Learning Collaborator at Omdena
+- 🎯 **Interests:** Software Architecture, System Design, Problem Solving, AI/ML
+- 🌱 **Currently Learning:** Advanced System Design, Distributed Systems
+
+## 🏆 Featured Projects
+### 🎵 [Laravel Music Streaming App](https://github.com/upesic1512/laravel-music-streaming)
+A Spotify-inspired **music streaming platform** built with Laravel featuring user registration, music uploads, playback, and an admin panel.
+
+### 🤖 [AI Trainer](https://github.com/upesic1512/ai-trainer)
+A **machine learning-powered fitness trainer** that generates personalized workout plans based on user input.
+
+### 🏀 [Olympic Basketball Tournament Simulator](https://github.com/upesic1512/basketball-simulator)
+A C# application simulating a **basketball tournament** at the Olympic Games, implementing group and knockout stages.
+
+### 🎮 [Game Automation Bot](https://github.com/upesic1512/game-automation)
+A Python-based bot that **automatically plays strategy games**, making smart decisions based on in-game logic.
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upesic1512&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/uro%C5%A1-pe%C5%A1i%C4%87-b9b724224/)  
+[![Email](https://img.shields.io/badge/Email-upesic1512%40gmail.com-red?style=flat&logo=gmail)](mailto:upesic1512@gmail.com)  
+
+💡 **Let's collaborate on exciting projects! Feel free to explore my repositories and reach out.** 🚀
