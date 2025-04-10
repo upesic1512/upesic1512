@@ -17,8 +17,11 @@ I am a final-year **Computer Science student** and a **Web Developer** with expe
 ### 🎵 [Laravel Music Streaming App](https://github.com/upesic1512/musicapp)
 A Spotify-inspired **music streaming platform** built with Laravel featuring user registration, music uploads, playback, and an admin panel.
 
-### 🤖 [Face Recognition App](https://github.com/upesic1512/ai-trainer)
+### 🤖 [Face Recognition App](https://github.com/upesic1512/Face_Recognitioon_app)
 A **machine learning-powered face recognition app**
+
+### [Kernel]((https://github.com/upesic1512/kernel--x86)
+A low-level x86-based operating system kernel built from scratch in Assembly and C++. Focuses on bootstrapping, memory management, and interrupt handling for educational and experimental purposes.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
