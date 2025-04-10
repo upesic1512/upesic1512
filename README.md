@@ -29,6 +29,9 @@ A Python-based bot that **automatically plays strategy games**, making smart dec
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upesic1512&show_icons=true&theme=tokyonight)
 
+### 🐍 Watch My Contribution Snake!
+![GitHub Contribution Snake](https://github.com/upesic1512/upesic1512/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/uro%C5%A1-pe%C5%A1i%C4%87-b9b724224/)  
 [![Email](https://img.shields.io/badge/Email-upesic1512%40gmail.com-red?style=flat&logo=gmail)](mailto:upesic1512@gmail.com)  
