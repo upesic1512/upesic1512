@@ -1,39 +1,49 @@
-# Hi there, I'm Uroš Pešić! 👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-🚀 **Web Developer | C# | .NET | Laravel | React | Machine Learning Enthusiast**  
-🎯 Passionate about building scalable web applications, optimizing performance, and solving complex problems. 
+###
 
-## 📌 About Me
-I am a final-year **Computer Science student** and a **Web Developer** with experience in both frontend and backend technologies. I love working on high-performance applications, improving user experiences, and leveraging machine learning for innovative solutions.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 **Currently working at:** SpiceAds as a Web Developer
-- 🎓 **Education:** University of Pristina, Faculty of Science (2021 - 2025)
-- 💡 **Tech Stack:** C#, .NET, Laravel, React, Python, TensorFlow, SQL, Docker
-- 💼 **Past Experience:** Web Developer at W3 Lab Digital Solutions, Machine Learning Collaborator at Omdena
-- 🎯 **Interests:** Software Architecture, System Design, Problem Solving, AI/ML
-- 🌱 **Currently Learning:** Advanced System Design, Distributed Systems
+###
 
-## 🏆 Featured Projects
-### 🎵 [Laravel Music Streaming App](https://github.com/upesic1512/laravel-music-streaming)
-A Spotify-inspired **music streaming platform** built with Laravel featuring user registration, music uploads, playback, and an admin panel.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### 🤖 [AI Trainer](https://github.com/upesic1512/ai-trainer)
-A **machine learning-powered fitness trainer** that generates personalized workout plans based on user input.
+###
 
-### 🏀 [Olympic Basketball Tournament Simulator](https://github.com/upesic1512/basketball-simulator)
-A C# application simulating a **basketball tournament** at the Olympic Games, implementing group and knockout stages.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### 🎮 [Game Automation Bot](https://github.com/upesic1512/game-automation)
-A Python-based bot that **automatically plays strategy games**, making smart decisions based on in-game logic.
+###
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upesic1512&show_icons=true&theme=tokyonight)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### 🐍 Watch My Contribution Snake!
-![GitHub Contribution Snake](https://github.com/upesic1512/upesic1512/blob/output/github-contribution-grid-snake.svg)
+###
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/uro%C5%A1-pe%C5%A1i%C4%87-b9b724224/)  
-[![Email](https://img.shields.io/badge/Email-upesic1512%40gmail.com-red?style=flat&logo=gmail)](mailto:upesic1512@gmail.com)  
+<br clear="both">
 
-💡 **Let's collaborate on exciting projects! Feel free to explore my repositories and reach out.** 🚀
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
