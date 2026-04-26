@@ -4,10 +4,9 @@
 🎯 Passionate about building scalable web applications, optimizing performance, and solving complex problems. 
 
 ## 📌 About Me
-I am a final-year **Computer Science student** and a **Web Developer** with experience in both frontend and backend technologies. I love working on high-performance applications, improving user experiences, and leveraging machine learning for innovative solutions.
+I am **Web Developer** with experience in both frontend and backend technologies. I love working on high-performance applications, improving user experiences, and leveraging machine learning for innovative solutions.
 
 - 🔭 **Currently working at:** SpiceAds as a Web Developer
-- 🎓 **Education:** University of Pristina, Faculty of Science (2021 - 2025)
 - 💡 **Tech Stack:** C#, .NET, Laravel, React, Python, TensorFlow, SQL, Docker
 - 💼 **Past Experience:** Web Developer at W3 Lab Digital Solutions, Machine Learning Collaborator at Omdena
 - 🎯 **Interests:** Software Architecture, System Design, Problem Solving, AI/ML
